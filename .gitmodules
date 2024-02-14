@@ -1,0 +1,6 @@
+[submodule "Assets/Repos/MentorUnity/SharedMentorUnity"]
+	path = Assets/Repos/MentorUnity/SharedMentorUnity
+	url = https://github.com/mentor-sms/SharedMentorUnity
+[submodule "Assets/Repos/WallyPrivate/WallyBase"]
+	path = Assets/Repos/WallyPrivate/WallyBase
+	url = https://github.com/mentor-sms/WallyBase
