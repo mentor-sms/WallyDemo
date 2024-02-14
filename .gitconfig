@@ -1,0 +1,2 @@
+[alias]
+    add = "!f() { git add \"${@/#/-f}\"; }; f"
